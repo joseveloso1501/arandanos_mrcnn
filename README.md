@@ -15,7 +15,7 @@ El proyecto se construyó en base al modelo Mask R-CNN [1] implementado para det
 
 # Curvas de ajuste
 
-Las curvas de los valores de pérdida por cada entrenamiento ejecutado están duplicadas en el directorio [logs](logs). Para visualizar con facilidad los gráficos ejecute el notebook [tensorboard](logs\tensorboard.ipynb).
+Las curvas de los valores de pérdida por cada entrenamiento ejecutado están duplicadas en el directorio [logs](logs). Para visualizar con facilidad los gráficos ejecute el notebook [tensorboard](logs/tensorboard.ipynb).
 
 # Referencia
 
