@@ -6,7 +6,9 @@ temp/
 test/
 extra-files/
 *.zip
-customImages/
+*.jpg
+*.xml
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
