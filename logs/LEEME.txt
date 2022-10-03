@@ -1,0 +1,2 @@
+Esta carpeta contiene las curvas de ajuste para todas las ejecuciones de los entrenamientos con Mask R-CNN sobre datasets de arándanos.
+Para visualizar los gráficos generados por cada entrenamiento, ejecute las celdas del Notebook de Python "tensorboard.ipynb" incluido en este directorio.
