@@ -13,6 +13,10 @@ El proyecto se construyó en base al modelo Mask R-CNN [1] implementado para det
 
 - La evaluación y ejecuciones de predicción por cada entrenamiento se realizaron con la versión de los algoritmos no refactorizadas. En el directorio [evaluacion-prediccion](evaluacion-prediccion) se encuentran las distintas versiones de evaluación y ejecuciones de predicción contenidos en notebooks, con imágenes del dataset y métricas de evaluación.
 
+# Curvas de ajuste
+
+Las curvas de los valores de pérdida por cada entrenamiento ejecutado están duplicadas en el directorio [logs](logs). Para visualizar con facilidad los gráficos ejecute el notebook [tensorboard](logs\tensorboard.ipynb).
+
 # Referencia
 
 [1] matterport. (2019, March 31). matterport/Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow. GitHub. https://github.com/matterport/Mask_RCNN
